@@ -1,7 +1,7 @@
 url: https://auth.youmust.watch
-status: up
-code: 200
-responseTime: 5129
-lastUpdated: 2024-04-07T05:48:33.965Z
+status: down
+code: 502
+responseTime: 8247
+lastUpdated: 2024-04-07T06:57:03.911Z
 startTime: 2024-03-01T16:59:44.940Z
 generator: Upptime <https://github.com/upptime/upptime>
