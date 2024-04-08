@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Emby
     url: https://youmust.watch
+  - name: Plex
+    url: https://plex.youmust.watch
   - name: Emby Requests
     url: https://requests.youmust.watch
   - name: youmust.watch Accounts
