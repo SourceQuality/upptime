@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/plex.youmust.watch.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "1.97%",
-    "uptimeDay": "1.97%",
-    "uptimeWeek": "1.97%",
-    "uptimeMonth": "1.97%",
-    "uptimeYear": "1.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 452,
     "timeDay": 452,
     "timeWeek": 452,
     "timeMonth": 452,
     "timeYear": 452,
-    "dailyMinutesDown": {
-      "2024-04-08": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Emby Requests",
@@ -62,7 +60,7 @@
     "slug": "youmust-watch-accounts",
     "status": "up",
     "uptime": "85.10%",
-    "uptimeDay": "40.95%",
+    "uptimeDay": "40.96%",
     "uptimeWeek": "86.70%",
     "uptimeMonth": "95.77%",
     "uptimeYear": "85.10%",
