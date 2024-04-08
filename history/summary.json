@@ -4,19 +4,19 @@
     "url": "https://youmust.watch",
     "icon": "https://icons.duckduckgo.com/ip3/youmust.watch.ico",
     "slug": "emby",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 367,
-    "timeDay": 367,
-    "timeWeek": 367,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "status": "up",
+    "uptime": "97.60%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "97.60%",
+    "time": 582,
+    "timeDay": 582,
+    "timeWeek": 582,
+    "timeMonth": 582,
+    "timeYear": 582,
     "dailyMinutesDown": {
-      "2024-04-08": 0
+      "2024-04-08": 7
     }
   },
   {
