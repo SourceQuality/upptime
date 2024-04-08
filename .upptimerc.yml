@@ -6,7 +6,7 @@ sites:
   - name: Emby
     url: https://youmust.watch
   - name: Plex
-    url: https://plex.youmust.watch
+    url: https://plex.youmust.watch/identity
   - name: Emby Requests
     url: https://requests.youmust.watch
   - name: youmust.watch Accounts
