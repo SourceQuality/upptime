@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 471,
-    "timeDay": 802,
-    "timeWeek": 628,
-    "timeMonth": 492,
-    "timeYear": 471,
+    "time": 470,
+    "timeDay": 407,
+    "timeWeek": 534,
+    "timeMonth": 495,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2024-04-20": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 353,
-    "timeDay": 1064,
-    "timeWeek": 574,
+    "time": 352,
+    "timeDay": 314,
+    "timeWeek": 471,
     "timeMonth": 380,
-    "timeYear": 353,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2024-04-20": 16
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 759,
-    "timeDay": 956,
-    "timeWeek": 911,
-    "timeMonth": 872,
-    "timeYear": 759,
+    "time": 760,
+    "timeDay": 794,
+    "timeWeek": 863,
+    "timeMonth": 873,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2024-04-20": 16
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/embyauth.youmust.watch.ico",
     "slug": "youmust-watch-accounts",
     "status": "up",
-    "uptime": "93.55%",
+    "uptime": "93.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.55%",
-    "time": 691,
-    "timeDay": 584,
-    "timeWeek": 359,
+    "uptimeYear": "93.63%",
+    "time": 689,
+    "timeDay": 300,
+    "timeWeek": 354,
     "timeMonth": 296,
-    "timeYear": 691,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2024-04-20": 16,
       "2024-04-08": 651,
