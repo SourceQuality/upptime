@@ -1,7 +1,7 @@
 url: https://requests.youmust.watch
-status: up
-code: 200
-responseTime: 496
-lastUpdated: 2024-08-23T19:28:00.932Z
+status: down
+code: 502
+responseTime: 299
+lastUpdated: 2024-08-23T19:43:18.480Z
 startTime: 2024-04-08T10:50:52.645Z
 generator: Upptime <https://github.com/upptime/upptime>
