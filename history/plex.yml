@@ -1,7 +1,7 @@
 url: https://plex.youmust.watch/identity
-status: down
-code: 502
-responseTime: 279
-lastUpdated: 2024-11-16T23:23:12.736Z
+status: up
+code: 200
+responseTime: 306
+lastUpdated: 2024-11-17T04:51:12.712Z
 startTime: 2024-04-08T20:36:14.748Z
 generator: Upptime <https://github.com/upptime/upptime>
