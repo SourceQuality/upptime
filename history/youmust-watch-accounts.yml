@@ -1,7 +1,7 @@
 url: https://embyauth.youmust.watch
-status: down
-code: 502
-responseTime: 13368
-lastUpdated: 2025-02-15T08:24:24.509Z
+status: up
+code: 200
+responseTime: 10121
+lastUpdated: 2025-02-15T13:58:59.980Z
 startTime: 2024-03-01T16:59:44.940Z
 generator: Upptime <https://github.com/upptime/upptime>
